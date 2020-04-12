@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Silent App Installer</string>
+    <string name="accessibility_service_label">Silent App Installer</string>
+</resources>
